@@ -14,3 +14,8 @@ Use Delegated mode of common security behind service provider reverse proxy.
 
             cd target 
             java -jar -DITESOFT_SECURITY_MODE=delegated springboot-fatjar-1.0.0-SNAPSHOT.jar
+           
+# other files
+
+Apache + saml and openidc modules 
+https://github.com/alizarion/delegated-federation/releases/download/1.0.0/files.zip
